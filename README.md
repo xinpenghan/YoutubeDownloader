@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/logo.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/logo-1.png" />
 
 <br>
 <h3>YoutubeDownloader</h3>
