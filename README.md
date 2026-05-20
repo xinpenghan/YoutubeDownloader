@@ -10,10 +10,9 @@
 
 <br><br>
 
-<p>
 
 ## 💡 简介
 
 <p>
-<center>YoutubeDownloader is an application that lets you download videos from YouTube. You can copy-paste URL of any video, playlist or channel and download it directly in a format of your choice. It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.</center>
-<p>
+YoutubeDownloader 是一款可以下载 YouTube 视频的应用程序。您可以复制粘贴任何视频、播放列表或频道的 URL，并直接以您选择的格式下载。它还支持关键词搜索，如果您想快速查找和下载视频，这将非常有用。
+</p>
