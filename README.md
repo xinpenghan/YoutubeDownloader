@@ -40,5 +40,5 @@ YD YoutubeDownloader is an application that can download YouTube videos. You can
 
 ## Screenshot
 
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/2.png" />
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/5.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/6.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/7.png" />
