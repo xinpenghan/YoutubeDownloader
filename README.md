@@ -1,6 +1,6 @@
 <div align="center">
   
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/logo-1.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/logo-1.png" />
 <br>
 <h3>YoutubeDownloader</h3>
 
@@ -24,7 +24,7 @@ YD YoutubeDownloader is an application that can download YouTube videos. You can
     </tr>
 </table>
 
- <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
+ <img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/paypal.png" width="200" />
 
 ## Download link
    - 📦 **[stable version](https://github.com/xinpenghan/YoutubeDownloader/releases/)**
@@ -40,5 +40,5 @@ YD YoutubeDownloader is an application that can download YouTube videos. You can
 
 ## Screenshot
 
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/6.png" />
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/7.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/6.png" />
+<img alt="Vditor" src="https://xinpenghan.github.io/YD-YoutubeDownloader/image/7.png" />
